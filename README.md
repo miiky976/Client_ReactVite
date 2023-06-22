@@ -16,13 +16,21 @@ O con npm:
 npm create vite@latest
 ```
 Esto nos mostrara una interfaz de terminal en la cual tendremos que darle un nombre al proyecto...
+
 ![pasted01](./images/pasted01.png)
+
 Que tecnología usare, en mi caso usare react...
+
 ![pasted02](./images/pasted02.png)
+
 Y el lenguaje a usar en el proyecto, en mi caso usare JavaScript por comodidad.
+
 ![pasted03](./images/pasted03.png)
+
 Y listo, ya habremos creado el proyecto.
+
 ![pasted04](./images/pasted04.png)
+
 # Instalando dependencias y configurándolas
 Para que mi interfaz no se vea tan fea, agregare la libreria de tailwind.css.
 ```bash
